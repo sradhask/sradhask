@@ -10,7 +10,7 @@
 }   
 
 .a3{
-    margin-left: 200px;
+   
     font-size:13px;
     margin-top: -1%;
 }   
@@ -33,19 +33,27 @@
 }
 .red2{
      margin-left: 68%;
-     margin-top: -2.5%;
+     margin-top: -2.9%;
      color:white;
 }
 
 .cl{
     
-    margin-left: 71%;
+    margin-left: 70%;
     color:white;
-    margin-top: -2%;
-    font-size:13px ;
+    margin-top:-1.5%;
+    font-size:12px ;
+}
+
+.a3{
+    
+    margin-left: 14.5%;
 }
 .a7{
     
- border-left: 1px solid red;
- margin-right:1000%;
-}
+    border-left: 1px solid red;
+    margin-right:1000%;
+   }
+.red8{
+    color:white;
+   }
