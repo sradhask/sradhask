@@ -5,9 +5,18 @@
 }
 .a2{
     margin-left:200px;
-    margin-bottom:-3%;
+    margin-top:-1.5%;
+    font-size:10px;
 }
 .a3{
-    margin-left: 300px;
+    margin-left: 200px;
+    font-size:13px;
+    margin-top: -1%;
 }
-
+.a4{
+    margin-left: 120px;
+    margin-top:-2.5%;
+}
+.w1{
+    border-left:3%;
+}
