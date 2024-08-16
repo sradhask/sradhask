@@ -1,5 +1,4 @@
 
-@media screen and (min-width: 768px)and (max-width:576px){
    
 .hello{
     background-color: black;
@@ -20,29 +19,30 @@
 .a4{
     margin-left: 120px;
     margin-top:-2.5%;
+    
 }
 
 .red{
-    margin-left: 60%;
+    margin-left: 64%;
     margin-top: -4%;
     color:white;
     font-size:100%;
 }
 .red1{
-    margin-left: 840px;
+    margin-left: 890px;
     color:white;
     font-size: 13px;
     margin-top: -1.5%;
 }
 .red2{
-     margin-left: 68%;
+     margin-left: 72%;
      margin-top: -2.9%;
      color:white;
 }
 
 .cl{
     
-    margin-left: 70%;
+    margin-left: 74%;
     color:white;
     margin-top:-1.5%;
     font-size:12px ;
@@ -57,8 +57,27 @@
     border-left: 1px solid red;
     margin-right:1000%;
    }
-.red8{
+.v1{
     color:white;
+    
    }
-
+.v2{
+    margin-left: 84%;
+    margin-top:-4.1%;
+    color:white;
+    font-size:12px ;
+}
+.v3
+{
+    margin-left:90%;
+    margin-top: -36px;
+    color:white;
+}
+.v4{
+    margin-left: 95%;
+    color:white;
+    margin-top:-2% ;
+}
+.hlo{
+    margin-bottom: 0%;
 }
