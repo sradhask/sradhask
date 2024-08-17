@@ -91,6 +91,7 @@
 .a10{
     margin-top: 2%;
     
+    
 }
 .t9{
     display:flex;
@@ -99,10 +100,11 @@
 
 }
 .hell{
-    margin-left: 250px;
+    margin-left: 120px;
     display: flex;
     /* justify-content: space-between; */
     margin-top: 2.5%;
+  
     
 
 }
@@ -110,7 +112,7 @@
     text-decoration: none;
     justify-content: space-between;
     margin-left: 20px;
-    
+    color:black;
 }
 .a12 a{
     color:red;
@@ -127,11 +129,28 @@
 
 }
 .d2{
-    margin-left: 81%;
+    margin-left: 79%;
     font-size: 20px;
-    margin-top:-3.1%;
-    color:yellow;
+    margin-top:2.5%;
+    color:black;
+
 }
 .e1{
-    margin-left: 70%;
+    margin-left: 94%;
+    margin-top:-3%
+}
+.f1{
+    margin-right:-8;
+}
+.d3{
+    margin-left: 82%;
+    margin-bottom: -7%;
+    margin-top: -4%;
+}
+.y1{
+    margin-left: 73%;
+    margin-top: -3.5%;
+}
+.{
+    font-size: 12px;
 }
