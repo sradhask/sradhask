@@ -6,7 +6,7 @@
     text-decoration: none;
 }
 .a2{
-    margin-left:150px;
+    margin-left:200px;
     margin-top:-1.5%;
     font-size:10px;
 }   
@@ -78,7 +78,45 @@
     color:white;
     margin-top:-2% ;
 }
-.hlo{
-    margin-bottom:5%;
-}
 
+
+
+.col a{
+    text-decoration: none;
+}
+.a7{
+    margin-left: 50%;
+    
+}
+.a10{
+    margin-top: 2%;
+    
+}
+.t9{
+    display:flex;
+    margin-bottom:-5%;
+    
+
+}
+.hell{
+    margin-left: 250px;
+    display: flex;
+    /* justify-content: space-between; */
+    margin-top: 2.5%;
+    
+
+}
+.hell a{
+    text-decoration: none;
+    justify-content: space-between;
+    margin-left: 20px;
+    
+}
+.a12 a{
+    color:red;
+}
+.world{
+    margin-left: 73%;
+    margin-top:70%;
+    color:red;
+}
