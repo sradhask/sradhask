@@ -111,8 +111,13 @@
 .hell a{
     text-decoration: none;
     justify-content: space-between;
-    margin-left: 20px;
+    margin-left: 18px;
     color:black;
+
+   
+
+
+
 }
 .a12 a{
     color:red;
@@ -130,7 +135,7 @@
 }
 .d2{
     margin-left: 79%;
-    font-size: 20px;
+    font-size: 15px;
     margin-top:2.5%;
     color:black;
 
@@ -151,6 +156,67 @@
     margin-left: 73%;
     margin-top: -3.5%;
 }
-.{
-    font-size: 12px;
+.jw{
+    height: 100px;
+    width:100px;
+    border-radius: 100%;
+
+}
+
+.b1{
+     height: 700px;
+     width: 1365px;
+
+}
+.o2{
+    margin-left: 9%;
+    margin-top:-3%
+}
+.o3{
+    margin-left: 16%;
+    margin-top:-3%;
+}
+.b2{
+    margin-left: 20%;
+    border-radius:50%;
+    height: 160px;
+    width: 160px;
+    margin-bottom: -18%;
+
+}
+.b{
+    margin-top:30%;
+    margin-left: 19%;
+}
+.y10{
+    margin-left: 7%;
+    background-color: rgb(236, 200, 107);
+    
+}
+.h1{
+    font-size: 200%;
+}
+.u1{
+    height: 100px;
+    width: 120px;
+    margin-left: 9%;
+    margin-top:-27%;
+}
+.u2{
+    height: 140px;
+    width: 120px;
+    margin-left: 1%;
+    margin-top:-27%;
+}
+.z2{
+   height:200px;
+   width:200px;
+   margin-left:2%;
+   margin-top: -15%;
+}
+.z4{
+    height:400px;
+    width: 300px;
+    margin-top: -8%;
+    margin-left: 24%;
 }
