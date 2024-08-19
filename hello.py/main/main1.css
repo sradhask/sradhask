@@ -141,7 +141,7 @@
 
 }
 .e1{
-    margin-left: 94%;
+    margin-left: 90%;
     margin-top:-3%
 }
 .f1{
@@ -154,18 +154,20 @@
 }
 .y1{
     margin-left: 73%;
-    margin-top: -3.5%;
+    margin-top:- 9%;
 }
-.jw{
-    height: 100px;
-    width:100px;
-    border-radius: 100%;
+.jw1{
+    height: 50%;
+    width:50%;
+    border-radius: 50%;
+    margin-left: 60%;
 
 }
 
 .b1{
      height: 700px;
      width: 1365px;
+
 
 }
 .o2{
@@ -220,3 +222,35 @@
     margin-top: -8%;
     margin-left: 24%;
 }
+.l1{
+    font-size: 200%;
+}
+.l2{
+    font-size: 100;
+}
+.l3{
+    color:red;
+     margin-left: 23%;
+}
+.l4{
+    margin-left: 42%;
+    margin-top:-2.8%;
+}
+.l5{
+    margin-left:55%;
+    margin-top: -3%;
+
+}
+.master{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.bin{
+    width:20px;
+    height: 20%;
+    background-color: brown;
+    border:1000px solid blue;
+}
+
+  

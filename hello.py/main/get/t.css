@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around; /* Distributes space around items */
+    align-items: center; /* Aligns items vertically */
+    width: 80%;
+    height: 200px;
+    background-color: #ffffff;
+    border: 2px solid #ddd;
+}
+
+.item {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+    flex: 1; /* Allows items to grow and shrink equally */
+}
