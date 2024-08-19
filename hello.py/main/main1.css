@@ -167,9 +167,10 @@
 .b1{
      height: 700px;
      width: 1365px;
-
-
 }
+
+
+
 .o2{
     margin-left: 9%;
     margin-top:-3%
@@ -179,11 +180,12 @@
     margin-top:-3%;
 }
 .b2{
-    margin-left: 20%;
-    border-radius:50%;
-    height: 160px;
-    width: 160px;
-    margin-bottom: -18%;
+    height: 10px;
+    width:10px;
+
+
+
+
 
 }
 .b{
@@ -193,6 +195,7 @@
 .y10{
     margin-left: 7%;
     background-color: rgb(236, 200, 107);
+    margin-bottom: 10%;
     
 }
 .h1{
@@ -253,4 +256,7 @@
     border:1000px solid blue;
 }
 
-  
+.m1{
+    width: 10px;
+    height: 10px;
+}
