@@ -386,6 +386,19 @@ footer {
 
 }
 .productimage img{
- height: 200px;
- width: 200px;
+ height: 400px;
+ width: 300px;
+}
+.good{
+    height: 30px;
+    width: 170px;
+    margin-bottom:-70%;
+    margin-left: 6%;
+    
+}
+.j1{
+    margin-left: 11.5%;
+}
+.j2{
+    margin-left: 7%;
 }
