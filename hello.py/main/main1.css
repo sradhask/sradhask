@@ -4,6 +4,7 @@
     background-color: black;
     color:white;
     text-decoration: none;
+   
 }
 .a2{
     margin-left:200px;
@@ -400,5 +401,10 @@ footer {
     margin-left: 11.5%;
 }
 .j2{
-    margin-left: 7%;
+    margin-left: 13%;
+}
+.j3{
+    margin-left:10% ;
+    height: 30px;
+    width: 170px;
 }
