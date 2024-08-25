@@ -1,12 +1,14 @@
 @media only screen and (max-width: 1398.8px)and (min-width:1200px){
     .hello 
      {background: red;}
+     
   
    
 .hello{
     background-color: black;
     color:white;
     text-decoration: none;
+    display: block;
    
 }
 .a2{
@@ -421,16 +423,18 @@ footer {
 
 
 
-@media only screen and (max-width: 768.8px)and (min-width:1200px){
+@media only screen and (max-width: 1199.8px)and (min-width:992px){
 
     .hello 
      {background: red;}
+     
   
    
 .hello{
     background-color: black;
     color:white;
     text-decoration: none;
+    display: block;
    
 }
 .a2{
@@ -839,7 +843,7 @@ footer {
 
 }
 
-@media only screen and (max-width: 1119.8px)and (min-width:576px){
+@media only screen and (max-width: 991.8px)and (min-width:768px){
 
 
     .hello 
@@ -850,6 +854,7 @@ footer {
     background-color: black;
     color:white;
     text-decoration: none;
+    display: none;
    
 }
 .a2{
@@ -1262,7 +1267,7 @@ footer {
       
 }
 
-@media only screen and (max-width: 9922.8px)and (min-width:768px){
+@media only screen and (max-width: 767.8px)and (min-width:567px){
 
 
 .hello 
@@ -1273,6 +1278,7 @@ footer {
 background-color: black;
 color:white;
 text-decoration: none;
+display: none;
 
 }
 .a2{
@@ -1674,7 +1680,7 @@ margin-left:10% ;
 height: 30px;
 width: 170px;
 }
-@media only screen and (max-width: 1400.8px)and (min-width:1200px){
+@media only screen and (max-width: 576px){
 
 
     .hello 
@@ -1685,6 +1691,7 @@ width: 170px;
     background-color: black;
     color:white;
     text-decoration: none;
+    display: none;
     
     }
     .a2{
